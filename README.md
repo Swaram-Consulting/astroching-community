@@ -30,7 +30,7 @@ Interested in building on top of our engine? Visit [api.astroching.com](https://
 ## 🔒 Privacy & Security
 The core matchmaking engine and user data processing logic are maintained in a private, secure environment. 
 
-**Important:** If you discover a security vulnerability, please do not open a public issue. Email us at `support@astroching.com` so we can address it immediately.
+**Important:** If you discover a security vulnerability, please do not open a public issue. Email us at `astroching@swaramconsulting.com` so we can address it immediately.
 
 ---
 © 2026 AstroChing. Dedicated to meaningful connections.
